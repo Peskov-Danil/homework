@@ -1,0 +1,8 @@
+my_string = input('Вывести количество символов введённого текста ')
+num_sw=len(my_string)
+print(num_sw)
+print('my_string'.upper())
+print('my_string'.lower())
+print('my_string'.replace('my_string','mystring'))
+print('my_sting'[0])
+print('my_sting'[7:])
